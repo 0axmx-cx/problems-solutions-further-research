@@ -1,4 +1,5 @@
 *Fingerprint Reader*
+
 Bus 001 Device 003: ID 27c6:55b4 Shenzhen Goodix Technology Co.,Ltd. Fingerprint Reader
 Lenovo Thinkpad L13 Yoga Gen 1
 
