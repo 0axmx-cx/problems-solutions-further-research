@@ -1,12 +1,10 @@
 *Fingerprint Reader*
 
-Bus 001 Device 003: ID 27c6:55b4 Shenzhen Goodix Technology Co.,Ltd. Fingerprint Reader
+Bus 001 Device 003: ID 27c6:55b4 Shenzhen Goodix Technology Co.,Ltd. Fingerprint Reader\
 Lenovo Thinkpad L13 Yoga Gen 1
 
 It seems like many of these thinkpads come with fingerprint readers that are not supported by fprint/fprintd.
-
 This means that these thinkpads have a functional element not supported by Linux at the moment.
-
 It seems like manufacturers either have to provide the drivers for these fingerprint readers or they have to be written.
 
 
