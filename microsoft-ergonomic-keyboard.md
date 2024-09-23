@@ -128,3 +128,6 @@ sudo chmod 644 drivers/hid/hid-microsoft/Makefile
 sudo make M=drivers/hid/hid-microsoft
 ```
 
+Articles that helped: 
+[Gentoo Forums](https://forums.gentoo.org/viewtopic-p-7354130.html)
+[Hardware Linux, which I don't understand](https://linux-hardware.org/?id=usb:045e-082c)
